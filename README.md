@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stempy
 - 👀 I’m interested in clean maintainable software architecture, along with future tech
-- 🌱 I’m currently learning vr, crypto
-- 💞️ I’m looking to collaborate on ... crypto projects, AI, VR
+- 🌱 I’m currently learning all sorts
+- 💞️ I’m looking to collaborate on ... software design
 - 📫 How to reach me ... stemp.dev
 
 <!---

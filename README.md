@@ -4,7 +4,7 @@ I got interested in computers since I had an Atari 800XL, similar to a Commodore
 
 Have done a few programming languages such as AtariBasic, AmigaBasic, M68k Asm, AMOS, Turbo Pascal, GwBasic, Qbasic, Turbo C, x86 Asm, java, vb6, php, js, c#
 
-Though primary languages have been C# .NET since 2005 and Javascript since 2000
+Though primary languages have been C# .NET since 2005 and Javascript since 2000, with PHP 2000-2005.... along with a few others in between (python, typescript etc)
 
 - https://stemp.dev
 

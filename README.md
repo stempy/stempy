@@ -15,6 +15,7 @@ Though primary languages have been C# .NET since 2005 and Javascript since 2000,
 - AI Experiements
 - Secure Air-gapped Applications
 - Desktop Docker Installer - To install docker for local use along with custom containers
+- Mobile licence plate scanning with mapping app
 
 2010-2020
 
@@ -28,6 +29,7 @@ Though primary languages have been C# .NET since 2005 and Javascript since 2000,
 - .NET WebApi's
 - .NET Core Console and WebApps.
 - KnockoutJS apps
+- ReactJs apps
 - AngularJS apps.
 - jQuery Plugins - Wizards
 - jQuery Templates

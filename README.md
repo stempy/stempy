@@ -64,6 +64,7 @@ Though primary languages have been C# .NET since 2005 and Javascript since 2000,
 - Snake, gw basic, qbasic
 - Some DOS cli utilities in C
 - Reverse engineering Game counters with M68K Disassembler.
+- M68k Assembler on Amiga 500
 - 2D sprite platformers with AMOS. Aswell as isometric adventure game
 - Amiga 500, game save editor Amiga basic, a GUI to modify save files without needing a Hexadecimal file editor.. config driven to handle different games.. 1990
 

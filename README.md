@@ -29,12 +29,15 @@ Though primary languages have been C# .NET since 2005 and Javascript since 2000,
 - .NET WebApi's
 - .NET Core Console and WebApps.
 - KnockoutJS apps
+- QR TrackIt - QR code based sales platform
 - ReactJs apps
 - AngularJS apps.
 - jQuery Plugins - Wizards
 - jQuery Templates
 - dustjs based templates
 - DNX Migrator - Migrate .NET fw projects to DNX
+- Javascript Question Collection Editor for large complex multi-step forms, with conditional showing of questions, answers, DB driven
+- Complete Insurance Suite Re-Architecture and Education for Devs
 
 2000's
 
